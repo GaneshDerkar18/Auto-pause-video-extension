@@ -1,0 +1,14 @@
+{
+    "name": "auto-pause-video-extension",
+    "version": "1.0.0",
+    "description": "Firefox extension to automatically pause videos on tab switch",
+    "scripts": {
+      "build": "webpack --config webpack.config.js",
+      "test": "jest"
+    },
+    "devDependencies": {
+      "webpack": "^5.60.0",
+      "jest": "^27.5.1"
+    }
+  }
+  
